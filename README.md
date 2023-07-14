@@ -6,7 +6,7 @@ Getting Started
 To run this website, you will need to have the following installed:
 
 A web server, such as Apache or Nginx
-A text editor, such as Sublime Text or Atom
+A text editor, such as Sublime Text or VSCode
 Once you have these installed, you can follow these steps to get started:
 
 Clone the repository to your computer.
